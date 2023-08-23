@@ -21,4 +21,4 @@ social: true  # includes social icons at the bottom of the page
 
 127 West Youyi Road, Xi’an Shaanxi, P.R.China 710072 <br>
 xslidi@mail.nwpu.edu.cn <br>
-[Google scholar](https://scholar.google.com/citations?user=r6WfS2gAAAAJ) || [Github](https://github.com/xslidi) || 
+[Google scholar](https://scholar.google.com/citations?user=r6WfS2gAAAAJ) || [Github](https://github.com/xslidi) || [ResearchGate](https://www.researchgate.net/profile/Di-Li-38) || [ORCID](https://orcid.org/0000-0001-8059-8783) ||
