@@ -5,9 +5,9 @@ permalink: /
 subtitle: PhD Candidate of Northwestern Polytechnical University
 
 profile:
-  align: right
+  align: left
   image: prof_pic.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: 
 
 news: false  # includes a list of news items
