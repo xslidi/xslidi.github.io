@@ -4,3 +4,7 @@
 
 "CMPB":
   url: https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine
+
+"TMM":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046
+  color: "#2471a3"
