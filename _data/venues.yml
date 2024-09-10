@@ -9,6 +9,10 @@
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046
   color: "#2471a3"
 
+"TCAS-I":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8919
+  color: "#2471a3"
+
 "IMAGE":
   url: https://www.sciencedirect.com/journal/signal-processing-image-communication
   color: "#0e90f0"
