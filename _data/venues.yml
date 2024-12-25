@@ -1,9 +1,10 @@
 "SPL":
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97
-  color: "#00369f"
+  color: "#2471a3"
 
 "CMPB":
   url: https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine
+  color: "#2471a3"
 
 "TMM":
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046
@@ -15,7 +16,7 @@
 
 "IMAGE":
   url: https://www.sciencedirect.com/journal/signal-processing-image-communication
-  color: "#0e90f0"
+  color: "#2471a3"
 
 "ICIP":
   url: https://ieeexplore.ieee.org/xpl/conhome/8791230/proceeding

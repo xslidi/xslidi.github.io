@@ -4,8 +4,9 @@ github_users:
 
 github_repos:
   - xslidi/BSEResU-Net
-  - xslidi/EfficientNets_ddl_apex
+  - xslidi/AttnBL
   - xslidi/DRN
   - xslidi/LTMGAN
   - xslidi/CATMO
   - xslidi/UIECL
+  - xslidi/EfficientNets_ddl_apex
